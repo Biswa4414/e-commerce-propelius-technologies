@@ -39,3 +39,19 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# EAS
+.eas/
+
+# Maestro test results
+.maestro/results/
+
+# Editor
+.vscode/
+.idea/
+
+# Build outputs
+build/
+*.ipa
+*.apk
+*.aab
