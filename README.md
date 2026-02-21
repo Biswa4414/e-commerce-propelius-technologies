@@ -1,7 +1,14 @@
 # 🛍️ E-Commerce App
 
 A cross-platform mobile e-commerce application built with **React Native** and **Expo**, supporting both Android and iOS. The app features product listing, product details, voice search, offline-first data handling, and a native splash screen.
+---
+# ❌ Don't do this
+npm start
 
+# ✅ Do this instead
+npm install
+npx expo run:ios   # for iOS
+npx expo run:android  # for Android
 ---
 
 ## 📱 Features
